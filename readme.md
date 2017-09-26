@@ -1,0 +1,1 @@
+Scenario: A vet doctor runs a clinic which caters only for dogs. After few years he chose to expand the clinic to kitty care, as the clinic is now successful. This is an OOP implementation of the vet clinic taking into consideration the expansion to accomodate cats.
